@@ -1,0 +1,12 @@
+Commander_Ace 2400
+Star_Viper 1900
+Nova_Prime 1500
+Hyperion 1200
+Shadow_Pilot 900
+Astro_Rider 700
+Galaxy_King 500
+Phoenix 400
+Mayank 300
+Cosmo_Cadet 200
+Rookie_One 100
+Vru 100

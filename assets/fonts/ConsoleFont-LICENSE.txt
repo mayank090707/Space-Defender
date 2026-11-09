@@ -1,0 +1,15 @@
+ConsoleFont.ttf — Consolas Regular
+===================================
+Consolas is a font designed by Lucas de Groot for Microsoft Corporation.
+It is bundled with Microsoft Windows and Microsoft Office.
+
+This copy is used for local educational/development purposes only under the
+terms of the Microsoft Software License Agreement for Windows system fonts.
+Redistribution of this file is not permitted without the original Microsoft
+software license.
+
+For open-source distribution, replace ConsoleFont.ttf with a freely licensed
+monospaced font such as:
+  - DejaVu Sans Mono  (https://dejavu-fonts.github.io/ — Bitstream Vera License)
+  - Source Code Pro   (https://github.com/adobe-fonts/source-code-pro — SIL OFL)
+  - Courier Prime     (https://quoteunquoteapps.com/courierprime/ — SIL OFL)
